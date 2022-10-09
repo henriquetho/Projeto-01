@@ -6,7 +6,7 @@
 
 Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo introdução ao HTML e CSS>
 
-[Clique aqui para acessar](https://henriquetho.github.io/projeto-01/)
+[Clique aqui para acessar](https://henriquetho.github.io/projeto01-explorer/)
 
 ## Tecnologias
 
