@@ -4,7 +4,7 @@
 
 > Projeto 01
 
-Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo introdução ao HTML e CSS>
+Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo introdução ao HTML e CSS
 
 [Clique aqui para acessar](https://henriquetho.github.io/projeto01-explorer/)
 
